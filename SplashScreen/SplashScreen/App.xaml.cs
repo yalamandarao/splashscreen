@@ -8,7 +8,7 @@ namespace SplashScreen
         {
             InitializeComponent();
 
-            MainPage = new SplashScreenPage();
+            MainPage = new NavigationPage(new SplashPage());
         }
 
         protected override void OnStart()

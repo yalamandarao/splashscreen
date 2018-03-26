@@ -104,9 +104,14 @@
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\Twitter.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\Twitter.imageset\Twitter.png" />
+    <ImageAsset Include="Assets.xcassets\Twitter.imageset\Twitter%402x.png" />
+    <ImageAsset Include="Assets.xcassets\Twitter.imageset\Twitter%403x.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Assets.xcassets\Twitter.imageset\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
